@@ -1,0 +1,14 @@
+body{
+	background-color: lightgrey;
+	margin: auto;
+}
+
+#width{
+	width: 700px;
+	border: 2px solid black;
+	margin: auto;
+}
+
+label{
+	color:red;
+}
